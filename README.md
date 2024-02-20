@@ -27,6 +27,5 @@ Aquí tienes  mi proyecto más destacado:
 
 - 📧 Correo Electrónico: arturorafa74@gmail.com
 - 💼 LinkedIn: [Arturo Gomez](www.linkedin.com/in/arturogo-)
-## Estadísticas del GitHub 📊
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia. 😊
