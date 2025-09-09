@@ -4,7 +4,7 @@
 
 ## Acerca de mí 🌟
 
-- 🎓 Estudiante de Ing. Informatica en la Universidad Autonónoma de Asunción - Paraguay
+- 🎓 Estudiante de Lic. Informatica en la Universidad Americana - Paraguay
 - 💼 Trabajo en ADIGI una empresa de software factory,
 - 🌱 Conocimientos basicos en Angular y React para FrontEnd, ademas de NodeJs y C# para BackEnd
 - 👯 Estoy buscando colaborar en proyectos en los cuales pueda demostrar mis conocimientos y ademas aprender mas de lo que ya sé
